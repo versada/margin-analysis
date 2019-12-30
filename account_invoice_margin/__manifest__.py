@@ -15,6 +15,7 @@
     "installable": True,
     "depends": [
         "account",
+        "sale",
     ],
     "data": [
         'security/account_invoice_margin_security.xml',
